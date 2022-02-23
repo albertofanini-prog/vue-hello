@@ -8,6 +8,7 @@ const main = new Vue({
     data: {
         input:'Scrivi qui il tuo messaggio',
         message:'',
+        imgUrl:'Vue_Logo.png',
     },
 });
 
